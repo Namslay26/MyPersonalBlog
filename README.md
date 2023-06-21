@@ -1,5 +1,5 @@
 # Sneha Michelle's Blog 
-![](https://github.com/Namslay26/MyPersonalBlog/Frame 3.png)
+![](https://github.com/Namslay26/MyPersonalBlog/banner.png)
 
 * This was created in an attempt to journal events and to keep track of thoughts and ideas.
 
