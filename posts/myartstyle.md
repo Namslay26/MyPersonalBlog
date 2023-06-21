@@ -1,7 +1,7 @@
 ---
-title: "I like: Music"
-subtitle: "Music that I listen to, and accepting why I've always felt insecure of it."
-date: 2023-06-15
+title: "I like: Art"
+subtitle: "My art has always been one of my biggest insecurities."
+date: 2023-06-20
 tag: "I like"
 --- 
 
