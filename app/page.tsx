@@ -6,7 +6,7 @@ import Hero from '@/components/Hero'
 
 function PostCard(post: Post) {
   return (
-    <div className='p-10 px-5 mt-3 mb-4 shadow-lg shadow-violet-200 rounded-md'>
+    <div className='p-10 px-5 mt-3 mb-4 shadow-lg shadow-violet-200 rounded-lg'>
     <Link href={post.url}>
     <h1 className='font-extrabold text-2xl'>{post.title}</h1>
     </Link>
